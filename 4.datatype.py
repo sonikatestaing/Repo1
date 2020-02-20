@@ -1,0 +1,2 @@
+something=type(eval(input()))
+
